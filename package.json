@@ -1,0 +1,16 @@
+{
+  "name": "jira_clone",
+  "version": "1.0.0",
+  "description": "A simple jira clone to practice with drag and drop features",
+  "main": "index.js",
+  "scripts": {
+    "start:production": "cd api && npm run start:production && cd ../client && npm start:production"
+  },
+  "keywords": [
+    "jira-clone",
+    "jira",
+    "open-source"
+  ],
+  "author": "Vikas Singh",
+  "license": "ISC"
+}
