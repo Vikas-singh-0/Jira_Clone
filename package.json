@@ -12,5 +12,9 @@
     "open-source"
   ],
   "author": "Vikas Singh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.17.6",
+    "loadsh": "^0.0.4"
+  }
 }

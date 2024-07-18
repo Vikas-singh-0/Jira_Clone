@@ -8,3 +8,4 @@ declare namespace NodeJs {
     JWT_SECRET: string;
   }
 }
+
